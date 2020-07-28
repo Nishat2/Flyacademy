@@ -1,0 +1,22 @@
+.pp{background: red;
+    width: 35%;
+    border-radius: 29%;
+    padding: 11px;
+    text-align: center;
+    margin-left: 30%;
+    position: absolute;
+    top: 234px;
+    left: 5px;}
+	.think {
+    position: relative;
+}
+.zz {    margin-left:18%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    color: blue;
+    border: 1px solid blue;
+    padding: 10;
+    background: white;
+	display:block;
+	overflow:hidden;
+	    width: 52%}

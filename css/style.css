@@ -1,0 +1,52 @@
+body{font-family: 'Rubik', sans-serif;}
+.logo img {width:100%}
+.icon{padding: 23px 7px;
+    border: 2px solid#ddd;
+    text-align: center;
+    margin: 10px;}
+	.about h4{font-size: 18px;
+    font-weight: 700;
+    color: #000;}
+	.about h5{font-size:12px;
+    font-weight: 700;
+    color: #000;}
+.menu {
+    width: 100%;
+    background: #28066D;
+    display: block;
+    overflow: hidden;
+}
+.menu ul{list-style: none;}
+.menu ul li{float: left;}
+.menu ul li a{
+    padding: 27px;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+	display:block;
+	overflow:hidden;}
+.menu li a:hover{background:#DDB45A;}
+.think{}
+.think img{width:92%;margin-top: 20px;}
+.think p{font-size: 13px;
+    font-weight: 400;
+    width: 261px;
+    margin-top: 34px;
+    margin-left: 35px;
+ color: white;}
+.footer{width: 100%;
+    background: black;}
+.ss{}
+.ss a{margin-left: 100px;
+    border: 1px solid#fff;
+    padding: 10px;
+    background: white;
+    color: black;
+    border-radius: 11px;}
+.one{color:#fff}
+.tt{}
+.tt p{margin-left: 214px;
+    color: white;}
+.tt a{color: white;
+    text-decoration: none;}
+.hr{bolder:1px solid#fff}
